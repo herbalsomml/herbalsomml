@@ -10,9 +10,11 @@ My name is Kirill, I currently live in Serbia, but I will be in Croatia very soo
 I've been interested in programming since childhood, but only a year ago I started to study it really seriously
 ## About me
  📚 Learning **Python, Django, REST API and C# now**
+ 
  🌎 I speak **English** and **Russian**
 
 **Reach me here**
+
  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihatemylifebutiluvmoney)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/herbalsomml)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbalsomml@gmail.com)
