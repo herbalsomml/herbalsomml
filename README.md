@@ -2,21 +2,24 @@
     <h1>🫡 G’day! My name's Kirill </h1>
 </div>
 
-## About me
+## About Me
  📚 Learning **Python, Django, REST API and C# now**
  
  🌎 I speak **English** and **Russian**
 
-## Reach me here
+## Reach Me Here
 
  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihatemylifebutiluvmoney)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/herbalsomml)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbalsomml@gmail.com)
 
-## Now in development
+## Now in Development
 [![crispy-journey](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=crispy-journey)](https://github.com/herbalsomml/crispy-journey)
 
-## Languages, technologies and programs
+## My Top Lang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbalsomml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages, Technologies and Programs
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -39,5 +42,7 @@
 
 ## Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbalsomml)](https://git.io/streak-stats)
+
+
 
 ![](https://komarev.com/ghpvc/?username=herbalsomml)
