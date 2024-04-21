@@ -13,7 +13,7 @@ I've been interested in programming since childhood, but only a year ago I start
  
  🌎 I speak **English** and **Russian**
 
-**Reach me here**
+## Reach me here
 
  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihatemylifebutiluvmoney)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/herbalsomml)
@@ -39,6 +39,8 @@ I've been interested in programming since childhood, but only a year ago I start
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
+
+## Additional
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbalsomml)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=herbalsomml)
