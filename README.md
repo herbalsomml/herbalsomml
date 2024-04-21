@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-    <h1>
+    <h1>🫡 G’day! My name's Kirill </h1>
+    <h3>New to programming, living in Belgrade</h3>
 </div>
 
 Here are some ideas to get you started:
