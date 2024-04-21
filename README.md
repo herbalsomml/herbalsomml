@@ -1,13 +1,8 @@
 <div id="header" align="center">
     <h1>🫡 G’day! My name's Kirill </h1>
-    <h3>New to programming, living in Belgrade</h3>
+    <h3>Belgrade</h3>
 </div>
 
-So, let me tell you about myself.
-
-My name is Kirill, I currently live in Serbia, but I will be in Croatia very soon. 
-
-I've been interested in programming since childhood, but only a year ago I started to study it really seriously
 ## About me
  📚 Learning **Python, Django, REST API and C# now**
  
@@ -40,8 +35,11 @@ I've been interested in programming since childhood, but only a year ago I start
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
 
-## Additional
+## Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbalsomml)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=herbalsomml)
+
+## Now in development
+[![crispy-journey](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=crispy-journey)](https://github.com/herbalsomml/crispy-journey)
 
