@@ -15,6 +15,7 @@
 
 ## Now in Development
 [![crispy-journey](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=crispy-journey)](https://github.com/herbalsomml/crispy-journey)
+[![ideal-doodle](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=ideal-doodle)](https://github.com/herbalsomml/ideal-doodle)
 
 ## My Top Lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbalsomml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
