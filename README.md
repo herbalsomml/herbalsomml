@@ -14,7 +14,6 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbalsomml@gmail.com)
 
 ## Now in Development
-[![crispy-journey](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=crispy-journey)](https://github.com/herbalsomml/crispy-journey)
 [![ideal-doodle](https://github-readme-stats.vercel.app/api/pin/?username=herbalsomml&repo=ideal-doodle)](https://github.com/herbalsomml/ideal-doodle)
 
 ## My Top Lang
